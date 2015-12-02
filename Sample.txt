@@ -1,0 +1,1 @@
+This file is used solely for the purpose of undrstanding the git completely.

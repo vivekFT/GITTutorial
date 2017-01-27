@@ -1,2 +1,5 @@
 This file is used solely for the purpose of undrstanding the git completely.
-This line is the first change make in git filder.
+Removed this line to see diff effect.
+Added this line after adding new README.
+Forget to add this line after adding README.
+Added this line to see diff effect.

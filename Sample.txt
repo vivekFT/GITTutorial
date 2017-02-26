@@ -8,3 +8,5 @@ Forget to add this line after adding README.
 Added this line to see diff effect.
 Added this to see use of git commit -a command
 Testing branch commit
+
+Commit after creating testing branch

@@ -7,3 +7,4 @@ Added this line after adding new README.
 Forget to add this line after adding README.
 Added this line to see diff effect.
 Added this to see use of git commit -a command
+Testing branch commit

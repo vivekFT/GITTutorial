@@ -1,4 +1,9 @@
-This file is used solely for the purpose of undrstanding the git completely.
+This file is used solely for the purpose of undrstanding the git complete
 This line is the first change make in git filder.
 Folder
 Master commit afet creating testing branch
+Removed this line to see diff effect.
+Added this line after adding new README.
+Forget to add this line after adding README.
+Added this line to see diff effect.
+Added this to see use of git commit -a command
